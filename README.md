@@ -1,2 +1,2 @@
-# migrate-database-from-mysql-to-cassandra
-migration d'une  base de donnee mysql en cassandra
+# database-migration-mysql-to-cassandra
+Script python de migration d'une base de donnée relationnelle( mysql ) vers une base NoSql orientée colonne( cassandra )
